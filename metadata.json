@@ -1,0 +1,8 @@
+{
+  "name": "DRDA Land Monitoring Portal",
+  "description": "A high-security GIS-based government land management system for tracking state property, managing encroachments, and handling citizen complaints with AI-powered verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
